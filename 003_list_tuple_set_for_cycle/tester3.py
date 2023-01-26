@@ -1,4 +1,5 @@
-courses = ['History', 'Math', 'Literature', 'Physics', 'Programming', 'Math']
+courses = ['History', 'Math',
+           'Literature', 'Physics', 'Programming', 'Math']
 
 for course in courses:
     if course == 'Math':
