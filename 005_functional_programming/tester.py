@@ -22,7 +22,7 @@ def print_message(name, age, job):
 #print_message('John', 25, 'Locksmith')
 people = [('John', 25, 'Locksmith'), ('Robert', 35, 'Driver')]
 
-for a in people[]:
-    print_message(a)
+# for a in people[]:
+#    print_message(a)
 
 

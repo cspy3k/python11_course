@@ -10,6 +10,5 @@ while True:
         continue
 print("data_list: ")
 print(data_list)
-
 for xxx in data_list:
     print(xxx)
