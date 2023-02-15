@@ -73,7 +73,7 @@ def make_dirs(sortdir):
     err_num = 0
     files, exts = chk_files(sortdir)
     if not len(files):
-        return f'"../{sortdir}" directory is empty!!!'
+        return f'"../{sortdir}" directory is empty!!!', False
     else:
         for extension in exts:
             dirname = 'sorted_' + extension[1:len(extension)]

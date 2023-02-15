@@ -11,7 +11,7 @@ while True:
     choice = functions.show_menu(msg)
     msg = ''
 
-    # check directory, scan for files and their different extensions
+# check directory, scan for files and their different extensions
     if choice == "1":
         files, exts = functions.chk_files(sortdir)
         if len(files):
