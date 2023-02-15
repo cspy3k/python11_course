@@ -46,7 +46,7 @@ def remove_dirs(sortdir):
     dirs = chk_dirs(sortdir)
     full_path = os.path.join(os.getcwd(), sortdir)
     if dirs:
-        msg = f'Removed {len(dirs)} directories with it\'s content...'
+        msg = f'Removed {len(dirs)} directories with content...'
         for dirname in dirs:
             print(dirname)
             shutil.rmtree(os.path.join(full_path, dirname))
