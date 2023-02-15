@@ -1,0 +1,28 @@
+In HTML, a color can be specified using a hexadecimal value in the form:
+#rrggbb
+Where rr (red), gg (green) and bb (blue) are hexadecimal values between 00 and ff (same as decimal 0-255).
+For example, #ff0000 is displayed as red, because red is set to its highest value (ff), and the other two (green and blue) are set to 00.
+Another example, #00ff00 is displayed as green, because green is set to its highest value (ff), and the other two (red and blue) are set to 00.
+To display black, set all color parameters to 00, like this: #000000.
+To display white, set all color parameters to ff, like this: #ffffff.
+Experiment by mixing the HEX values below:
+Absolute Zero 	#0048BA 	0% 	28% 	73% 	217° 	100% 	37% 	100% 	73% 	Crayola
+Acid green 	#B0BF1A 	69% 	75% 	10% 	65° 	76% 	43% 	76% 	43% 	Art Paints YG07S
+Aero 	#7CB9E8 	49% 	73% 	91% 	206° 	70% 	70% 	47% 	91% 	Maerz and Paul
+African violet 	#B284BE 	70% 	52% 	75% 	288° 	31% 	63% 	31% 	75% 	Pantone
+Air superiority blue 	#72A0C1 	45% 	63% 	76% 	205° 	39% 	60% 	41% 	76% 	Federal Standard 595
+Alice blue 	#F0F8FF 	94% 	97% 	100% 	208° 	100% 	97% 	6% 	100% 	X11/Web
+Alizarin 	#DB2D43 	86% 	18% 	26% 	352° 	71% 	52% 	79% 	86% 	Maerz and Paul
+Alloy orange #C46210 	77% 	38% 	6% 	27° 	85% 	42% 	92% 	77% 	Crayola
+Almond 	#EFDECD 	94% 	87% 	80% 	30° 	52% 	87% 	14% 	94% 	Crayola
+Amaranth deep purple 	#9F2B68 	62% 	17% 	41% 	328° 	57% 	40% 	73% 	62% 	Maerz and Paul
+Amaranth pink 	#F19CBB 	95% 	61% 	73% 	338° 	75% 	78% 	35% 	95% 	Maerz and Paul
+Amaranth purple 	#AB274F 	67% 	15% 	31% 	342° 	63% 	41% 	77% 	67% 	Maerz and Paul
+Amazon 	#3B7A57 	23% 	48% 	34% 	147° 	35% 	36% 	52% 	48% 	Xona.com
+Amber 	#FFBF00 	100% 	75% 	0% 	45° 	100% 	50% 	100% 	100% 	RGB color model
+Amethyst 	#9966CC 	60% 	40% 	80% 	270° 	50% 	60% 	50% 	80% 	X11/Web
+Android green 	#3DDC84 	24% 	86% 	53% 	148° 	69% 	55% 	72% 	86% 	Google
+Antique brass 	#CD9575 	80% 	58% 	46% 	22° 	47% 	63% 	43% 	80% 	Crayola
+Antique bronze 	#665D1E 	40% 	36% 	12% 	53° 	55% 	26% 	71% 	40% 	ISCC-NBS
+Antique fuchsia 	#915C83#DDDDDD#FFFFFF#123456 	57% 	36% 	51% 	316° 	22% 	46% 	37% 	57% 	Plochere
+#12345 #123 #12 #12A45#AABB#AABBCC #CCCCCC 0xABCDEF
