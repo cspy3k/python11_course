@@ -11,7 +11,7 @@ with open('data/happiness.csv', 'r', encoding='UTF8') as file:
 
 analysis_data = []
 for line in happiness_data:
-    analysis_data.append([line['GDP per capita'], line['Country or region']])
+    analysis_data.append([line['Social support'], line['Country or region']])
 
 analysis_data.sort(reverse=True)
 

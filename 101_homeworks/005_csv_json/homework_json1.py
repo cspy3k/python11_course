@@ -58,6 +58,6 @@ def main(data):
 
 with open('data/quiz.json', 'r', encoding='UTF-8') as file:
     quiz_data = json.load(file).get('quiz')
-print(quiz_data)
+# print(quiz_data)
 
 main(quiz_data)
