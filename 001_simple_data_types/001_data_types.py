@@ -40,5 +40,5 @@ print(type(a))
 
 # Rounding of numbers
 print(round(505.95))
-print(round(1.5))
-print(round(2.5))
+print(round(1.5, 0))
+print(round(2.5, 0))
